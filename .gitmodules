@@ -1,0 +1,36 @@
+[submodule "Blog"]
+	path = Blog
+	url = git@github.com:18888628835/Blog.git
+[submodule "account-book-front-end"]
+	path = account-book-front-end
+	url = git@github.com:18888628835/account-book-front-end.git
+[submodule "account-book-server"]
+	path = account-book-server
+	url = git@github.com:18888628835/account-book-server.git
+[submodule "react-drag-resizable"]
+	path = react-drag-resizable
+	url = git@github.com:18888628835/react-drag-resizable.git
+[submodule "oh-my-lib"]
+	path = oh-my-lib
+	url = git@github.com:18888628835/oh-my-lib.git
+[submodule "pikachu"]
+	path = pikachu
+	url = git@github.com:18888628835/pikachu.git
+[submodule "recoil-todo-list-with-test"]
+	path = recoil-todo-list-with-test
+	url = git@github.com:18888628835/recoil-todo-list-with-test.git
+[submodule "Simpler-Components"]
+	path = Simpler-Components
+	url = git@github.com:18888628835/Simpler-Components.git
+[submodule "first-low-code-demo"]
+	path = first-low-code-demo
+	url = git@github.com:18888628835/first-low-code-demo.git
+[submodule "RunningBear"]
+	path = RunningBear
+	url = git@github.com:18888628835/RunningBear.git
+[submodule "Interview"]
+	path = Interview
+	url = git@github.com:18888628835/Interview.git
+[submodule "cv"]
+	path = cv
+	url = git@github.com:18888628835/cv.git
